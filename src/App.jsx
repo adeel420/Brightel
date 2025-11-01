@@ -4,8 +4,8 @@ import Homepage from "./pages/Homepage";
 import ServicePage from "./pages/ServicePage";
 import ContactPage from "./pages/ContactPage";
 import Navbar from "./Components/Navbar";
-import Footer from "./components/Footer";
-import ScrollToTop from "./components/ScrollToTop";
+import Footer from "./Components/Footer";
+import ScrollToTop from "./Components/ScrollToTop";
 import BlogPage from "./pages/BlogPage";
 function Layout() {
   return (
