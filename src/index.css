@@ -1,0 +1,17 @@
+@import "tailwindcss";
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', system-ui, sans-serif;
+}
+button {
+    font-family: 'Poppins', system-ui, sans-serif;
+}
+a {
+    font-family: 'Inter', system-ui, sans-serif;
+}
+p{
+    font-family: 'Inter', system-ui, sans-serif;
+}
